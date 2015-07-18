@@ -1,11 +1,14 @@
 What happens when you initialize a repository? Why do you need to do it?
-A directory .git is created. This contens meta data that describes information
-change
+	A directory .git is created. This contents meta data that describes information change
 
 How ist the staging area different from the working directory and the
 repository? What value do you think it offers?
-Working directory holds actuall files i work on. These are the files
-that are modified each time i open an editor and add and change code
-lines. Staging area is a place to put file  which modifications are
-going to be recorded. Staging area can be thought as an intermediate
-ans transitory place between working directory and repository
+	Working directory holds actuall files i work on. These are the files
+	that are modified each time i open an editor and add and change code
+	lines. Staging area is a place to put file  which modifications are
+	going to be recorded. Staging area can be thought as an intermediate
+	ans transitory place between working directory and repository
+
+How can you use the staging area to make sure you have one commit per logical change?
+	executing -git diff-, One can verify that just one logical change in
+	a file has been staged. This way next commit will track just this change
