@@ -25,3 +25,8 @@ What is the result of merging two branches together? Why do we represent it in t
 	When tow branches are merged a new branch containig each branch modification and addition is created.
 	A merge is represented in a diagram like a joint of two branches because, This keeps each branch commit
 	secuence.
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git automatic merging technic gets easier to improve and develop
+any software solution. It would be cumbresome to merge file with many
+additions and modification. There are still cases where human validation
+is required.
