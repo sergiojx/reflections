@@ -20,3 +20,8 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 	Diagram shows each branch tip. Diagram helps identifing commit
 	branch history which in turn is useful for later feature additions and bug fixing.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	When tow branches are merged a new branch containig each branch modification and addition is created.
+	A merge is represented in a diagram like a joint of two branches because, This keeps each branch commit
+	secuence.
