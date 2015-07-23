@@ -13,7 +13,12 @@ would prefer to pull manually
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    fork is made when I want to follow some body's else  GiyHub repository
+    and I make a copy of this into my GitHub account
+    Cloning a repository is required when I plan to make changes to a 
+    repository content from my computer
+    Branches are required to mange different versions of the same basic
+    code without directly change the offical version
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
