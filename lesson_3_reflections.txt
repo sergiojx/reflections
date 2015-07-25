@@ -30,7 +30,7 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    It could be easy if developmet team is at the same location. Each one could ask each other about code modification. But definitely it is quite difficult to synchronize development activiites without a software tool
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
